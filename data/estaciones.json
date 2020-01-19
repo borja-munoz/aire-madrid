@@ -1,0 +1,563 @@
+[
+    {
+        "type": "Feature",
+        "properties":
+        {
+            "numero": "4",
+            "estacion": "Pza. de España",
+            "direccion": "Plaza de España",
+            "longitud": "-3.712222222",
+            "latitud": "40.42361111",
+            "altitud": "635",
+            "tipoEstacion": "UT",
+            "NO2": "X",
+            "SO2": "X",
+            "CO": "X",
+            "VV": "X",
+            "DV": "X",
+            "TMP": "X",
+            "HR": "X",
+            "LL": "X"
+        },
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-3.712222222, 40.42361111]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties":
+        {
+            "numero": "8",
+            "estacion": "Escuelas Aguirre",
+            "direccion": "Entre C/ Alcalá y C/ O’ Donell ",
+            "longitud": "-3.682222222",
+            "latitud": "40.42138889",
+            "altitud": "670",
+            "tipoEstacion": "UT",
+            "NO2": "X",
+            "SO2": "X",
+            "CO": "X",
+            "PM10": "X",
+            "PM2,5": "X",
+            "O3": "X",
+            "BTX": "X",
+            "HC": "X"
+        },
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-3.682222222, 40.42138889]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties":
+        {
+            "numero": "11",
+            "estacion": "Avda. Ramón y Cajal",
+            "direccion": "Avda. Ramón y Cajal  esq. C/ Príncipe de Vergara",
+            "longitud": "-3.677222222",
+            "latitud": "40.45138889",
+            "altitud": "708",
+            "tipoEstacion": "UT",
+            "NO2": "X",
+            "BTX": "X",
+            "LL": "X"
+        },
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-3.677222222, 40.45138889]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties":
+        {
+            "numero": "16",
+            "estacion": "Arturo Soria",
+            "direccion": "C/ Arturo Soria  esq. C/  Vizconde de los Asilos ",
+            "longitud": "-3.639166667",
+            "latitud": "40.44",
+            "altitud": "693",
+            "tipoEstacion": "UF",
+            "NO2": "X",
+            "CO": "X",
+            "O3": "X",
+            "LL": "X"
+        },
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-3.639166667, 40.44]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties":
+        {
+            "numero": "17",
+            "estacion": "Villaverde",
+            "direccion": "C/. Juan Peñalver",
+            "longitud": "-3.713055556",
+            "latitud": "40.34694444",
+            "altitud": "604",
+            "tipoEstacion": "UF",
+            "NO2": "X",
+            "SO2": "X",
+            "O3": "X"
+        },
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-3.713055556, 40.34694444]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties":
+        {
+            "numero": "18",
+            "estacion": "Farolillo",
+            "direccion": "Calle Farolillo - C/Ervigio",
+            "longitud": "-3.731666667",
+            "latitud": "40.39472222",
+            "altitud": "630",
+            "tipoEstacion": "UF",
+            "NO2": "X",
+            "SO2": "X",
+            "CO": "X",
+            "PM10": "X",
+            "O3": "X",
+            "BTX": "X",
+            "TMP": "X",
+            "LL": "X"
+        },
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-3.731666667, 40.39472222]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties":
+        {
+            "numero": "24",
+            "estacion": "Casa de Campo",
+            "direccion": "Casa de Campo  (Terminal del Teleférico)",
+            "longitud": "-3.747222222",
+            "latitud": "40.41916667",
+            "altitud": "642",
+            "tipoEstacion": "S",
+            "NO2": "X",
+            "SO2": "X",
+            "CO": "X",
+            "PM10": "X",
+            "PM2,5": "X",
+            "O3": "X",
+            "BTX": "X",
+            "HC": "X",
+            "UV": "X",
+            "VV": "X",
+            "DV": "X",
+            "TMP": "X",
+            "HR": "X",
+            "PRB": "X",
+            "RS": "X",
+            "LL": "X"
+        },
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-3.747222222, 40.41916667]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties":
+        {
+            "numero": "27",
+            "estacion": "Barajas Pueblo",
+            "direccion": "C/. Júpiter, 21 (Barajas) ",
+            "longitud": "-3.58",
+            "latitud": "40.47666667",
+            "altitud": "621",
+            "tipoEstacion": "UF",
+            "NO2": "X",
+            "O3": "X"
+        },
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-3.58, 40.47666667]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties":
+        {
+            "numero": "35",
+            "estacion": "Pza. del Carmen",
+            "direccion": "Plaza del Carmen esq. Tres Cruces. ",
+            "longitud": "-3.703055556",
+            "latitud": "40.41916667",
+            "altitud": "659",
+            "tipoEstacion": "UF",
+            "NO2": "X",
+            "SO2": "X",
+            "CO": "X",
+            "O3": "X"
+        },
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-3.703055556, 40.41916667]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties":
+        {
+            "numero": "36",
+            "estacion": "Moratalaz",
+            "direccion": "Avd. Moratalaz  esq. Camino de los Vinateros",
+            "longitud": "-3.645277778",
+            "latitud": "40.40777778",
+            "altitud": "685",
+            "tipoEstacion": "UT",
+            "NO2": "X",
+            "SO2": "X",
+            "CO": "X",
+            "PM10": "X",
+            "LL": "X"
+        },
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-3.645277778, 40.40777778]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties":
+        {
+            "numero": "38",
+            "estacion": "Cuatro Caminos",
+            "direccion": "Avda. Pablo Iglesias esq. C/ Marqués de Lema",
+            "longitud": "-3.706944444",
+            "latitud": "40.44527778",
+            "altitud": "698",
+            "tipoEstacion": "UT",
+            "NO2": "X",
+            "SO2": "X",
+            "PM10": "X",
+            "PM2,5": "X",
+            "BTX": "X",
+            "TMP": "X",
+            "LL": "X"
+        },
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-3.706944444, 40.44527778]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties":
+        {
+            "numero": "39",
+            "estacion": "Barrio del Pilar",
+            "direccion": "Avd. Betanzos esq. C/  Monforte de Lemos ",
+            "longitud": "-3.711388889",
+            "latitud": "40.47805556",
+            "altitud": "674",
+            "tipoEstacion": "UT",
+            "NO2": "X",
+            "CO": "X",
+            "O3": "X",
+            "LL": "X"
+        },
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-3.711388889, 40.47805556]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties":
+        {
+            "numero": "40",
+            "estacion": "Vallecas",
+            "direccion": "C/ Arroyo del Olivar  esq. C/  Río Grande. ",
+            "longitud": "-3.651388889",
+            "latitud": "40.38805556",
+            "altitud": "677",
+            "tipoEstacion": "UF",
+            "NO2": "X",
+            "SO2": "X",
+            "PM10": "X",
+            "LL": "X"
+        },
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-3.651388889, 40.38805556]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties":
+        {
+            "numero": "47",
+            "estacion": "Mendez Alvaro",
+            "direccion": "C/ Juan de Mariana / Pza. Amanecer Mendez Alvaro",
+            "longitud": "-3.686666667",
+            "latitud": "40.39805556",
+            "altitud": "599",
+            "tipoEstacion": "UF",
+            "NO2": "X",
+            "PM10": "X",
+            "PM2,5": "X"
+        },
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-3.686666667, 40.39805556]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties":
+        {
+            "numero": "48",
+            "estacion": "Castellana",
+            "direccion": "C/ Jose Gutierrez Abascal",
+            "longitud": "-3.690277778",
+            "latitud": "40.43972222",
+            "altitud": "676",
+            "tipoEstacion": "UT",
+            "NO2": "X",
+            "PM10": "X",
+            "PM2,5": "X"
+        },
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-3.690277778, 40.43972222]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties":
+        {
+            "numero": "49",
+            "estacion": "Parque del Retiro",
+            "direccion": "Paseo Venezuela- Casa de Vacas",
+            "longitud": "-3.6825",
+            "latitud": "40.41444444",
+            "altitud": "662",
+            "tipoEstacion": "UF",
+            "NO2": "X",
+            "O3": "X"
+        },
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-3.6825, 40.41444444]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties":
+        {
+            "numero": "50",
+            "estacion": "Plaza Castilla",
+            "direccion": "Plaza Castilla (Canal)",
+            "longitud": "-3.688611111",
+            "latitud": "40.46555556",
+            "altitud": "728",
+            "tipoEstacion": "UT",
+            "NO2": "X",
+            "PM10": "X",
+            "PM2,5": "X",
+            "TMP": "X"
+        },
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-3.688611111, 40.46555556]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties":
+        {
+            "numero": "54",
+            "estacion": "Ensanche de Vallecas",
+            "direccion": "Avda La Gavia / Avda. Las Suertes",
+            "longitud": "-3.611944444",
+            "latitud": "40.37277778",
+            "altitud": "627",
+            "tipoEstacion": "UF",
+            "NO2": "X",
+            "O3": "X",
+            "UV": "X",
+            "VV": "X",
+            "DV": "X",
+            "TMP": "X",
+            "LL": "X"
+        },
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-3.611944444, 40.37277778]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties":
+        {
+            "numero": "55",
+            "estacion": "Urb. Embajada",
+            "direccion": "C/ Riaño (Barajas) ",
+            "longitud": "-3.580555556",
+            "latitud": "40.4625",
+            "altitud": "618",
+            "tipoEstacion": "UF",
+            "NO2": "X",
+            "PM10": "X",
+            "BTX": "X",
+            "HC": "X"
+        },
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-3.580555556, 40.4625]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties":
+        {
+            "numero": "56",
+            "estacion": "Pza. Fernández Ladreda",
+            "direccion": " Pza. Fernández Ladreda - Avda. Oporto",
+            "longitud": "-3.718611111",
+            "latitud": "40.38472222",
+            "altitud": "604",
+            "tipoEstacion": "UT",
+            "NO2": "X",
+            "CO": "X",
+            "O3": "X",
+            "VV": "X",
+            "DV": "X",
+            "TMP": "X",
+            "HR": "X",
+            "LL": "X"
+        },
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-3.718611111, 40.38472222]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties":
+        {
+            "numero": "57",
+            "estacion": "Sanchinarro",
+            "direccion": "C/ Princesa de Eboli esq C/ Maria Tudor",
+            "longitud": "-3.660277778",
+            "latitud": "40.49416667",
+            "altitud": "700",
+            "tipoEstacion": "UF",
+            "NO2": "X",
+            "SO2": "X",
+            "CO": "X",
+            "PM10": "X",
+            "TMP": "X"
+        },
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-3.660277778, 40.49416667]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties":
+        {
+            "numero": "58",
+            "estacion": "El Pardo",
+            "direccion": "Avda. La Guardia",
+            "longitud": "-3.774444444",
+            "latitud": "40.51805556",
+            "altitud": "615",
+            "tipoEstacion": "S",
+            "NO2": "X",
+            "O3": "X"
+        },
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-3.774444444, 40.51805556]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties":
+        {
+            "numero": "59",
+            "estacion": "Juan Carlos I",
+            "direccion": "Parque Juan Carlos I (frente oficinas mantenimiento)",
+            "longitud": "-3.608888889",
+            "latitud": "40.465",
+            "altitud": "660",
+            "tipoEstacion": "S",
+            "NO2": "X",
+            "O3": "X",
+            "UV": "X",
+            "VV": "X",
+            "DV": "X",
+            "TMP": "X",
+            "HR": "X",
+            "PRB": "X",
+            "RS": "X",
+            "LL": "X"
+        },
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-3.608888889, 40.465]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties":
+        {
+            "numero": "60",
+            "estacion": "Tres Olivos",
+            "direccion": "Plaza Tres Olivos ",
+            "longitud": "-3.689722222",
+            "latitud": "40.50055556",
+            "altitud": "715",
+            "tipoEstacion": "UF",
+            "NO2": "X",
+            "PM10": "X",
+            "O3": "X",
+            "PRB": "X",
+            "LL": "X"
+        },
+        "geometry":
+        {
+            "type": "Point",
+            "coordinates": [-3.689722222, 40.50055556]
+        }
+    }
+]
