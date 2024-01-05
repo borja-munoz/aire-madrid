@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 borja-munoz/aire-madrid is built on the following main stack:
+
 - [Segment](https://segment.com/?utm_medium=paid-display&utm_source=stackshare&utm_campaign=analytics) – Analytics Integrator
 - [Chartio](https://chartio.com) – Business Intelligence
 - [Code Climate](https://codeclimate.com/) – Code Review
@@ -64,11 +65,13 @@ borja-munoz/aire-madrid is built on the following main stack:
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 borja-munoz/aire-madrid is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/5/default_aa447805966bbb635af0d113e93e1f1030497052.jpg' alt='Segment'/> [Segment](https://segment.com/?utm_medium=paid-display&utm_source=stackshare&utm_campaign=analytics) – Analytics Integrator
 - <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
 - <img width='25' height='25' src='https://img.stackshare.io/service/305/KFgYaUkK.png' alt='Code Climate'/> [Code Climate](https://codeclimate.com/) – Code Review
@@ -131,14 +134,15 @@ borja-munoz/aire-madrid is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [borja-munoz/aire-madrid](https://github.com/borja-munoz/aire-madrid)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|428<br/>Tools used|11/10/23 <br/>Report generated|
+|433<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -769,9 +773,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (355)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (360)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (355)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (360)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -821,6 +825,7 @@ Full tech stack [here](/techstack.md)
 |[buffer-equal](https://www.npmjs.com/buffer-equal)|v1.0.0|12/21/18|Borja Muñoz |MIT|N/A|
 |[bytes](https://www.npmjs.com/bytes)|v3.0.0|12/21/18|Borja Muñoz |MIT|N/A|
 |[cac](https://www.npmjs.com/cac)|N/A|12/21/18|Borja Muñoz |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|N/A|12/21/18|Borja Muñoz |MIT|N/A|
 |[cli](https://www.npmjs.com/cli)|N/A|12/21/18|Borja Muñoz |MIT|N/A|
 |[cli-table](https://www.npmjs.com/cli-table)|v0.3.1|12/21/18|Borja Muñoz |MIT|N/A|
 |[clone](https://www.npmjs.com/clone)|N/A|12/21/18|Borja Muñoz |MIT|N/A|
@@ -919,6 +924,7 @@ Full tech stack [here](/techstack.md)
 |[http](https://www.npmjs.com/http)|N/A|12/21/18|Borja Muñoz |BSD-2-Clause|N/A|
 |[http-errors](https://www.npmjs.com/http-errors)|v1.6.3|12/21/18|Borja Muñoz |MIT|N/A|
 |[https](https://www.npmjs.com/https)|N/A|12/21/18|Borja Muñoz |ISC|N/A|
+|[husky](https://www.npmjs.com/husky)|v0.13.3|12/21/18|Borja Muñoz |MIT|N/A|
 |[i](https://www.npmjs.com/i)|N/A|12/21/18|Borja Muñoz |MIT|N/A|
 |[iconv](https://www.npmjs.com/iconv)|N/A|12/21/18|Borja Muñoz |ISC|N/A|
 |[iconv-lite](https://www.npmjs.com/iconv-lite)|v0.4.23|12/21/18|Borja Muñoz |MIT|N/A|
@@ -955,10 +961,11 @@ Full tech stack [here](/techstack.md)
 |[knox](https://www.npmjs.com/knox)|N/A|12/21/18|Borja Muñoz |MIT|N/A|
 |[lab](https://www.npmjs.com/lab)|N/A|12/21/18|Borja Muñoz |BSD-3-Clause|N/A|
 |[level](https://www.npmjs.com/level)|N/A|12/21/18|Borja Muñoz |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v3.4.1|12/21/18|Borja Muñoz |MIT|N/A|
 |[log](https://www.npmjs.com/log)|N/A|12/21/18|Borja Muñoz |ISC|N/A|
 |[lolex](https://www.npmjs.com/lolex)|v2.3.2|12/21/18|Borja Muñoz |BSD-3-Clause|N/A|
 |[markdown](https://www.npmjs.com/markdown)|N/A|12/21/18|Borja Muñoz |MIT|N/A|
-|[marked](https://www.npmjs.com/marked)|v0.5.1|12/21/18|Borja Muñoz |MIT|[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[](https://github.com/advisories/GHSA-7m7q-q53v-j47v) (Moderate)<br/>[](https://github.com/advisories/GHSA-xf5p-87ch-gxw2) (Moderate)<br/>[](https://github.com/advisories/GHSA-ch52-vgq2-943f) (Low)|
+|[marked](https://www.npmjs.com/marked)|v0.5.1|12/21/18|Borja Muñoz |MIT|[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[](https://github.com/advisories/GHSA-7m7q-q53v-j47v) (Moderate)<br/>[](https://github.com/advisories/GHSA-xf5p-87ch-gxw2) (Moderate)<br/>[](https://github.com/advisories/GHSA-ch52-vgq2-943f) (Low)|
 |[matcha](https://www.npmjs.com/matcha)|v0.7.0|12/21/18|Borja Muñoz |MIT|N/A|
 |[md5](https://www.npmjs.com/md5)|N/A|12/21/18|Borja Muñoz |BSD-3-Clause|N/A|
 |[merge](https://www.npmjs.com/merge)|N/A|12/21/18|Borja Muñoz |MIT|N/A|
@@ -1051,6 +1058,7 @@ Full tech stack [here](/techstack.md)
 |[safe-publish-latest](https://www.npmjs.com/safe-publish-latest)|v1.1.1|12/21/18|Borja Muñoz |MIT|N/A|
 |[sax](https://www.npmjs.com/sax)|v1.2.4|12/21/18|Borja Muñoz |ISC|N/A|
 |[seedrandom](https://www.npmjs.com/seedrandom)|v2.4.3|12/21/18|Borja Muñoz |MIT|N/A|
+|[semantic-release](https://www.npmjs.com/semantic-release)|v6.3.2|12/21/18|Borja Muñoz |MIT|[CVE-2020-26226](https://github.com/advisories/GHSA-r2j6-p67h-q639) (High)|
 |[semistandard](https://www.npmjs.com/semistandard)|v11.0.0|12/21/18|Borja Muñoz |MIT|N/A|
 |[send](https://www.npmjs.com/send)|v0.16.2|12/21/18|Borja Muñoz |MIT|N/A|
 |[serve](https://www.npmjs.com/serve)|N/A|12/21/18|Borja Muñoz |MIT|N/A|
@@ -1085,6 +1093,7 @@ Full tech stack [here](/techstack.md)
 |[tar-stream](https://www.npmjs.com/tar-stream)|v1.6.2|12/21/18|Borja Muñoz |MIT|N/A|
 |[tar.gz](https://www.npmjs.com/tar.gz)|N/A|12/21/18|Borja Muñoz |ISC|N/A|
 |[temp](https://www.npmjs.com/temp)|v0.8.2|12/21/18|Borja Muñoz |MIT|N/A|
+|[test](https://www.npmjs.com/test)|N/A|12/21/18|Borja Muñoz |MIT|N/A|
 |[through](https://www.npmjs.com/through)|N/A|12/21/18|Borja Muñoz |MIT|N/A|
 |[through2](https://www.npmjs.com/through2)|v2.0.0|12/21/18|Borja Muñoz |MIT|N/A|
 |[tmp](https://www.npmjs.com/tmp)|N/A|12/21/18|Borja Muñoz |MIT|N/A|
@@ -1134,4 +1143,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
